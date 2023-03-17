@@ -1,0 +1,1 @@
+{"parameters": {"logistic__C": 0.01, "logistic__penalty": "l2", "logistic__solver": "saga"}, "score": 0.6788830753283065}
